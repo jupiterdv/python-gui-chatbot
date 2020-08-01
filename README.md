@@ -6,7 +6,7 @@ A Python GUI Chatbot built with Chatterbot &amp; Nltk
 <a href="https://thecodezine.com/how-to-build-a-chatbot-in-python/how-to-make/#main" rel="attachment wp-att-1025"><img src="https://thecodezine.com/wp-content/uploads/2020/07/HOW-TO-MAKE.gif" alt="" width="872" height="732" class="alignnone size-full wp-image-1025" /></a>
 
 <!-- wp:paragraph -->
-<p>Hi Dev mates, Welcome to The Codezine again, &amp; Dark Soulz is back with another python #DIY tutorial. Today, I will gonna bring out one of the important &amp; cool python projects that you are gonna like &amp; love to do it yourself. So, Today we are going to <strong>make a python GUI Chatbot</strong>[graphical user interface]. Exciting right? But, what is it actually?</p>
+<p>Hi Dev mates, Welcome to The Codezine again, &amp; Dark Soulz is back with another python #DIY tutorial. Today, I will gonna bring out one of the important &amp; cool python projects that you are gonna like &amp; love to do it yourself.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
