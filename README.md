@@ -17,18 +17,6 @@ A Python GUI Chatbot built with Chatterbot &amp; Nltk
 <p>A&nbsp;<strong>chatbot</strong>&nbsp;is a computer program that imitates human conversation through voice commands or text chats or both.&nbsp;It is built with AI tools like as Natural Language Processing (NLP) etc.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":3} -->
-<h3>Advantages of Chatbot?</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Some of the few advantages of Chatbot are as follow:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul><li>Cost Savings as it reduces human resource costs.</li><li>24/7 Customer support which helps in better customer engagement.</li><li>Lesser Human Errors as its fully based on AI</li><li>Larger Client Management capability.</li></ul>
-<!-- /wp:list -->
-
 <!-- wp:image {"id":1024,"sizeSlug":"large","className":"is-style-default"} -->
 <figure class="wp-block-image size-large is-style-default"><img src="https://thecodezine.com/wp-content/uploads/2020/07/chatbot.png" alt="" class="wp-image-1024"/></figure>
 <!-- /wp:image -->
