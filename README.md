@@ -1,5 +1,5 @@
 # python-gui-chatbot
-A Python GUI Chatbot built with Chatterbot &amp; Nltk
+
 <!-- wp:heading -->
 <h2>Tutorial to build a chatbot in Python</h2>
 <!-- /wp:heading -->
@@ -42,5 +42,5 @@ A Python GUI Chatbot built with Chatterbot &amp; Nltk
 <!-- /wp:heading -->
 
 <!-- wp:list {"ordered":true} -->
-<ol><li><strong>pip install nltk</strong> ---&gt; A python package for natural language processing. It is the core &amp; vital package for making a chat box.</li><li><strong>pip3 install ChatterBot</strong> ---&gt; It is a machine learning, conversational dialog engine.</li><li><strong>pip install pyttsx3</strong> ---&gt; It is a python library for converting text to speech.</li><li><strong>pip install SpeechRecognition</strong> ---&gt; A python library for recognizing speech.</li><li><strong>Tkinter </strong>---&gt; It is a standard GUI library for Python</li></ol>
+<ol><li><strong>pip install nltk</strong></li><li><strong>pip3 install ChatterBot</strong></li><li><strong>pip install pyttsx3</strong> </li><li><strong>pip install SpeechRecognition</strong></li><li><strong>Tkinter </strong></li></ol>
 <!-- /wp:list -->
